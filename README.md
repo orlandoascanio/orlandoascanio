@@ -26,7 +26,7 @@ These are live. Real users. Built and maintained solo.
 |---|---|---|
 | [ResistGate](https://www.orlandoascanio.com/products/resistgate) | Distraction blocker. Forces a typing challenge before you can open a distracting site. No one-click bypasses. | 32 users |
 | [Amethyst](https://www.orlandoascanio.com/products/amethyst) | Tracks where your browser time actually goes — locally, privately, accurately. | 33 users |
-| [noted.](https://www.orlandoascanio.com/products/noted) | Chrome extension for quick note-taking with voice dictation and AI assistance. | 11 users |
+| [noted.](https://www.orlandoascanio.com/products/noted) | Chrome extension for quick note-taking with AI assistance. | 11 users |
 | [LeadScout AI](https://www.orlandoascanio.com/products/leadscout) | B2B lead research agent. Parallel web search + LLM extraction + prospect scoring. | In progress |
 
 ---
