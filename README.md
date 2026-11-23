@@ -1,60 +1,13 @@
-# Hey, I'm Orlando 👋
+# Hi, I'm Orlando
 
-I'm a software engineer and solopreneur from Venezuela.
-I build tools that help people focus, research faster, and get more done 
-and I ship them as real products, not just side projects.
+I'm a software engineer from Venezuela. I'm looking for a remote engineering role where I can build useful tools with other developers and learn from their code reviews.
 
-Currently open to **remote engineering roles** while running my own products.
+## Selected work
 
----
+**PocketLeft** is a Swift menu bar app for tracking spending. One question I wanted it to answer was “How low could my balance get before payday?” The forecast accounts for rent coming due and leaves an unpaid invoice out of the available balance. [Source](https://github.com/orlandoascanio/pocketleft) · [Forecast test](https://github.com/orlandoascanio/pocketleft/blob/30ddb81577299a05f1056691a768e1fc8616adcb/mac/Tests/PocketCoreTests/ForecastAndHistoryTests.swift#L108) · [Mac release](https://github.com/orlandoascanio/pocketleft/releases/latest)
 
-## What I Work With
+**ResistGate** is a Chrome extension for sites you open out of habit. You choose the sites, and the extension asks you to type a passage before granting temporary access. Your blocklist stays in the browser. [Source](https://github.com/orlandoascanio/ResistGate) · [Chrome Web Store](https://chromewebstore.google.com/detail/resistgate/elpiihpfmgipodcddhhpiijmppkmlpnc)
 
-**Languages:** Javascrip · TypeScript · Python · Swift  
-**Frontend:** Next.js · React · Tailwind CSS  
-**Backend:** FastAPI · PostgreSQL · Supabase · Express.js  
-**Platforms:** Chrome Extensions · macOS (SwiftUI) · Web · iOS & Android    
-**Other:** OpenAI/Claude API · Prompt Engineering · REST APIs · Git
+**Clean Paste** is a TypeScript plugin for Obsidian. It tidies lists and spacing when you paste text into a note, while preserving the code blocks inside it. [Source](https://github.com/orlandoascanio/Clean-Paste) · [Cleanup tests](https://github.com/orlandoascanio/Clean-Paste/blob/main/tests/integration/cleaner.test.ts)
 
----
-
-## Products I've Shipped
-
-These are live. Real users. Built and maintained solo.
-
-| Product | What it does | Users |
-|---|---|---|
-| [ResistGate](https://www.orlandoascanio.com/products/resistgate) | Distraction blocker. Forces a typing challenge before you can open a distracting site. No one-click bypasses. | 90 users |
-| [Amethyst](https://www.orlandoascanio.com/products/amethyst) | Tracks where your browser time actually goes — locally, privately, accurately. | 57 users |
-| [noted.](https://www.orlandoascanio.com/products/noted) | Chrome extension for quick note-taking with AI assistance. | 29 users |
-| [LeadScout AI](https://www.orlandoascanio.com/products/leadscout) | B2B lead research agent. Parallel web search + LLM extraction + prospect scoring. | In progress |
-
----
-
-## What I'm Building Right Now
-
-- Growing **ResistGate** toward monetization and marketing.
-- Shipping content about building in public on [X](https://x.com/Gojer27): the real stuff, not the highlight reel
-
----
-
-## A Bit More Context
-
-I graduated in 2025 and went straight into building.
-No job yet, by choice for now, necessity soon.
-I learn by shipping, breaking things, and fixing them.
-I care about clean code, real product thinking, and writing software that feels good to use.
-
-If you're looking for someone who treats code like a craft and ships without being told to,
-that's me.
-
----
-
-## Let's Talk
-
-I'm open to **remote full-time roles**, **contract work**, and conversations with people building something real.
-
-📬 [operation927@gmail.com](mailto:operation927@gmail.com)  
-🌐 [orlandoascanio.com](https://www.orlandoascanio.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev)  
-🐦 [X / Twitter](https://x.com/Gojer27)
+I'm open to full-time roles and contract work. [Portfolio](https://www.orlandoascanio.com) · [hello@orlandoascanio.com](mailto:hello@orlandoascanio.com)
