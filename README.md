@@ -1,6 +1,6 @@
 # Hi, I'm Orlando
 
-I'm a software engineer from Venezuela. I'm looking for a remote engineering role where I can build useful tools with other developers and learn from their code reviews.
+I'm a software engineer from Venezuela. I'm looking for a remote engineering role where I can build useful tools with other developers and learn from their.
 
 ## Selected work
 
